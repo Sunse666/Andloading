@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Andloading</string>
+    <string name="channel_agent">助手服务状态</string>
+    <string name="channel_agent_description">助手前台服务的常驻通知</string>
+    <string name="notification_running">助手已就绪</string>
+    <string name="notification_stop">停止</string>
+    <string name="notification_floating">悬浮窗运行中</string>
+    <string name="floating_panel_title">Andloading</string>
+    <string name="floating_stop">关闭</string>
+    <string name="floating_status_idle">空闲</string>
+    <string name="floating_status_thinking">正在生成回复…</string>
+    <string name="floating_status_tool">正在执行 %1$s…</string>
+    <string name="floating_status_awaiting">等待审批</string>
+    <string name="floating_approval_tool">请求执行：%1$s</string>
+    <string name="floating_approval_screenshot_note">将截取当前屏幕并发送给 AI</string>
+    <string name="floating_approve_once">允许一次</string>
+    <string name="floating_approve_always">始终允许</string>
+    <string name="floating_approve_this_run">本轮始终</string>
+    <string name="floating_approve_this_conversation">本对话始终</string>
+    <string name="floating_deny">拒绝</string>
+    <string name="floating_hint_input">输入消息…</string>
+    <string name="floating_send">发送</string>
+    <string name="floating_stop_generation">停止</string>
+    <string name="floating_open_main">主界面</string>
+    <string name="floating_collapse">收起</string>
+    <string name="floating_close_window">关闭</string>
+    <string name="accessibility_service_summary">Andloading 跨应用操作</string>
+    <string name="accessibility_service_description">允许 Andloading 读取屏幕内容并执行点击、输入、滑动等操作，用于完成跨应用任务</string>
+</resources>

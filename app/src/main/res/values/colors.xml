@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0B57D0</color>
+    <color name="floating_ball_bg">#CC0B57D0</color>
+    <color name="floating_panel_text">#1F1F1F</color>
+    <color name="floating_panel_secondary">#5F6368</color>
+    <color name="floating_status_idle">#5F6368</color>
+    <color name="floating_status_busy">#0B57D0</color>
+    <color name="floating_status_tool">#E8710A</color>
+    <color name="floating_status_approval">#C5221F</color>
+    <color name="floating_approval_bg">#EAF1FB</color>
+    <color name="floating_input_bg">#F1F3F4</color>
+    <color name="floating_btn_primary">#0B57D0</color>
+    <color name="floating_btn_on_primary">#FFFFFF</color>
+    <color name="floating_btn_tonal">#DCE9FB</color>
+    <color name="floating_btn_on_tonal">#174EA6</color>
+    <color name="floating_btn_neutral">#F1F3F4</color>
+    <color name="floating_btn_on_neutral">#1F1F1F</color>
+</resources>
